@@ -1,5 +1,5 @@
 import { FaLinkedin, FaGithub, FaTwitter } from "react-icons/fa";
-import HashnodeWhite from "../assets/Images/HashnodeWhite.png";
+import HashnodeWhite from "../assets/Images/HashNodeWhite.png";
 
 function Home() {
   return (
